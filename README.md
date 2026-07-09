@@ -67,13 +67,8 @@ medical-image-classification-resnet50/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-│
-├── sample_images/
-│   ├── normal.jpg
-│   └── pneumonia.jpg
-│
-└── tests/
-    └── test_api.py
+
+└── test_api.py
 ```
 
 ---
@@ -123,17 +118,7 @@ Example Response
 
 ---
 
-## Sample Images
 
-Example images are provided inside
-
-```
-sample_images/
-```
-
-to quickly test the API.
-
----
 
 ## Future Improvements
 
